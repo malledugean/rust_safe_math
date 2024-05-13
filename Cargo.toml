@@ -2,8 +2,8 @@
 name = "safe_math"
 version = "0.1.0"
 edition = "2021"
-documentation = "README.md"
-homepage = "README.md"
+documentation = "https://github.com/malledugean/rust_safe_math/blob/main/README.md"
+homepage = "https://github.com/malledugean/rust_safe_math"
 readme = "README.md"
 
 authors = ["Roberto Pavusa Junior <pavusa@gmail.com>"] 
