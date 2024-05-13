@@ -12,7 +12,7 @@ license = "CC-BY-4.0"
 
 description = "A Rust library for simplified safe math operations"
 
-keywords = ["math", "safe", "safe math", "operations"]
+keywords = ["math", "safe", "safe-math", "operations"]
 
 repository = "https://github.com/malledugean/rust_safe_math.git"
 
