@@ -55,7 +55,7 @@ content_copy
 ```
 Ini, TOML
 [dependencies]
-safe_math = "0.1.0"
+dicoco_safe_math = "0.1.0"
 ```
 
 Use code with caution.
