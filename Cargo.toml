@@ -2,19 +2,18 @@
 name = "safe_math"
 version = "0.1.0"
 edition = "2021"
+documentation = "README.md"
+homepage = "README.md"
+readme = "README.md"
 
 authors = ["Roberto Pavusa Junior <pavusa@gmail.com>"] 
 
-[license]
 license = "CC-BY-4.0"
 
-[description]
 description = "A Rust library for simplified safe math operations"
 
-[keywords]
 keywords = ["math", "safe", "safe math", "operations"]
 
-[repository]
 repository = "https://github.com/malledugean/rust_safe_math.git"
 
 [dependencies]
