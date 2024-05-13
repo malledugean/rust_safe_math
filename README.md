@@ -80,7 +80,7 @@ cargo test
 Safe Math Rust offers functions for various mathematical operations, all designed to handle potential overflows and underflows gracefully. Here are some examples:
 
 ```
-use safe_math::calc_basic;
+use dicoco_safe_math::calc_basic;
 
 fn main() {
   let a = 100;

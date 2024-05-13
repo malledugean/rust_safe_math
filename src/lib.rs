@@ -5,7 +5,7 @@ pub mod calc_basic {
     /// # sample
     /// 
     /// ``` rust
-    /// use safe_math::calc_basic;
+    /// use dicoco_safe_math::calc_basic;
     /// 
     /// assert_eq!( 15, calc_basic::sum_x_y(13,2));
     /// assert_eq!( 0, calc_basic::sum_x_y(0,0));
@@ -28,7 +28,7 @@ pub mod calc_basic {
     /// # sample
     /// 
     /// ``` rust
-    /// use safe_math::calc_basic;
+    /// use dicoco_safe_math::calc_basic;
     /// 
     /// assert_eq!( 15, calc_basic::sub_x_y(17,2));
     /// assert_eq!( 0, calc_basic::sub_x_y(2,18));

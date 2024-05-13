@@ -1,5 +1,5 @@
 [package]
-name = "safe_math"
+name = "dicoco_safe_math"
 version = "0.1.0"
 edition = "2021"
 documentation = "https://github.com/malledugean/rust_safe_math/blob/main/README.md"
