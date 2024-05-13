@@ -1,0 +1,27 @@
+[package]
+name = "safe_math"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Roberto Pavusa Junior <pavusa@gmail.com>"] 
+
+[license]
+license = "CC-BY-4.0"
+
+[description]
+description = "A Rust library for simplified safe math operations"
+
+[keywords]
+keywords = ["math", "safe", "safe math", "operations"]
+
+[repository]
+repository = "https://github.com/malledugean/your_library_name"
+
+[dependencies]
+# List dependencies that safe_math library requires 
+
+
+[dev-dependencies]
+# List development dependencies used for testing 
+
+
