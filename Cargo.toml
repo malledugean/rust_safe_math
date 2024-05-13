@@ -15,7 +15,7 @@ description = "A Rust library for simplified safe math operations"
 keywords = ["math", "safe", "safe math", "operations"]
 
 [repository]
-repository = "https://github.com/malledugean/your_library_name"
+repository = "https://github.com/malledugean/rust_safe_math.git"
 
 [dependencies]
 # List dependencies that safe_math library requires 
